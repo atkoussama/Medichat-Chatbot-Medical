@@ -7,7 +7,6 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Check if user is logged in from local storage
     const user = localStorage.getItem('medichat_user');
     if (user) {
       setCurrentUser(JSON.parse(user));
