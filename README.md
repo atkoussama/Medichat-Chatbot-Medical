@@ -203,6 +203,3 @@ L'intégration avec l'API OpenRouter inclut:
 
 ## Conclusion
 MediChat démontre le potentiel de la technologie IA dans la communication en santé. En fournissant une plateforme multilingue et accessible pour des conseils médicaux préliminaires, le projet atteint son objectif de réduire l'écart entre les utilisateurs et les informations médicales. La combinaison des technologies web modernes avec les capacités de l'IA crée une base solide pour les améliorations futures des solutions de santé numérique.
-=======
-# medichat
-MediChat est un assistant médical intelligent basé sur l'IA.
