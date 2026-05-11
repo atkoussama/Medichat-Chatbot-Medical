@@ -11,7 +11,7 @@ const DoctorAvatar = lazy(() => import('../components/chat/DoctorAvatar'));
 
 // --- GROQ Configuration ---
 const API_KEY = process.env.REACT_APP_GROQ_API_KEY || 'inserer votre api key';
-const API_URL = 'https://api.groq.com/openai/v1/chat/completions';
+const API_URL = 'api url';
 const MODEL = 'meta-llama/llama-4-scout-17b-16e-instruct';
 
 // --- System Prompt Definition ---
